@@ -1,0 +1,17 @@
+MATLAB 26.1.0.3346908 (R2026a) Update 5
+max_abs_error
+         0.240000000008308
+
+
+interior_max_abs_error
+         0.120000000004552
+
+
+half_step_max_error
+        0.0600000000019918
+
+
+convergence_ratio
+          4.00000000000568
+
+
