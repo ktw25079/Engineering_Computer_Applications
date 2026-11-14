@@ -1,0 +1,17 @@
+MATLAB 26.1.0.3346908 (R2026a) Update 5
+flight_time_s
+          30.0185714528523
+
+
+range_m
+          3211.29419426714
+
+
+height_printed_expression
+          24.2855344522162
+
+
+height_correct_m
+          1104.99181757583
+
+
