@@ -1,0 +1,19 @@
+MATLAB 26.1.0.3346908 (R2026a) Update 5
+C_inverse
+     2    -1     0
+    -1     2    -1
+     0    -1     1
+
+
+D_determinant
+     0
+
+
+D_rank
+     2
+
+
+D_inverse_exists
+   0
+
+
