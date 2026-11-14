@@ -1,0 +1,21 @@
+MATLAB 26.1.0.3346908 (R2026a) Update 5
+initial_tip_m
+          3.21325166804975          1.53023896615753
+
+
+final_tip_m
+           0.1642135623731        -0.750849947088007
+
+
+time_step_s
+                      0.01
+
+
+computed_time_points
+   501
+
+
+gif_frames
+   101
+
+
