@@ -1,0 +1,25 @@
+MATLAB 26.1.0.3346908 (R2026a) Update 5
+integral
+          4.66666666666667
+
+
+trapz
+                  4.666666
+
+
+exact
+          4.66666666666667
+
+
+integral_error
+      8.88178419700125e-16
+
+
+trapz_error
+       6.6666666764803e-07
+
+
+half_step_trapz_error
+      1.66666667134052e-07
+
+
