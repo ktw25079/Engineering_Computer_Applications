@@ -8,7 +8,11 @@
 
 ## 풀이
 
-$\begin{bmatrix}a&b\\c&d\end{bmatrix}^{-1}=\frac{1}{ad-bc}\begin{bmatrix}d&-b\\-c&a\end{bmatrix}$이며 행렬식이 0이 아닐 때만 적용된다. 직접식과 내장 함수의 차이 및 원행렬과 역행렬의 곱이 단위행렬인지 확인한다. 연립방정식만 풀 때는 역행렬 생성 대신 `A\b`를 권장한다.
+```math
+\begin{bmatrix}a&b\\c&d\end{bmatrix}^{-1}=\frac{1}{ad-bc}\begin{bmatrix}d&-b\\-c&a\end{bmatrix}
+```
+
+이 공식은 행렬식이 0이 아닐 때만 적용된다. 직접식과 내장 함수의 차이 및 원행렬과 역행렬의 곱이 단위행렬인지 확인한다. 연립방정식만 풀 때는 역행렬 생성 대신 `A\b`를 권장한다.
 
 ## 실행과 결과
 
