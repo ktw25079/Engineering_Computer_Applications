@@ -1,0 +1,17 @@
+MATLAB 26.1.0.3346908 (R2026a) Update 5
+assumed_initial_velocity_m_per_s
+     0
+
+
+omega_rad_per_s
+          2.23606797749979
+
+
+max_position_error_m
+      1.05046749077076e-09
+
+
+relative_energy_drift
+      1.14843796694686e-09
+
+
