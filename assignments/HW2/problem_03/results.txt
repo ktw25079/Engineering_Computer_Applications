@@ -1,0 +1,13 @@
+MATLAB 26.1.0.3346908 (R2026a) Update 5
+lhs
+   124   -17    70
+
+
+rhs
+   124   -17    70
+
+
+residual
+     0
+
+
