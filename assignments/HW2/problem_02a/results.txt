@@ -1,0 +1,13 @@
+MATLAB 26.1.0.3346908 (R2026a) Update 5
+elementwise
+                     -51.5
+
+
+matrix
+                     -51.5
+
+
+dot
+                     -51.5
+
+
