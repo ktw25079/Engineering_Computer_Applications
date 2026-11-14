@@ -1,14 +1,16 @@
-# 과제 문제
+# 과제 문제와 MATLAB 풀이
 
-HW1–HW6 문제와 실습 안내입니다. 원본의 필기와 표시를 그대로 보존했습니다.
+원본 과제 PDF는 이 폴더에 그대로 보관하고, 새 풀이와 실행 결과는 HW별 하위 폴더에 정리했습니다.
 
-| 파일 | 내용 |
-| --- | --- |
-| [EngComp_HW1.pdf](EngComp_HW1.pdf) | HW1 기초 계산과 MATLAB 연습 |
-| [EngComp_HW2.pdf](EngComp_HW2.pdf) | HW2 벡터·행렬 연산과 연립방정식 |
-| [HW3.pdf](HW3.pdf) | HW3 외팔보 처짐 계산과 시각화 |
-| [HW4.pdf](HW4.pdf) | HW4 평면 n-Link 매니퓰레이터 |
-| [HW5.pdf](HW5.pdf) | HW5 보간·수치계산과 동적 시스템 |
-| [HW6.pdf](HW6.pdf) | HW6 공학 프로그래밍 활용 분야 조사 |
+| 과제 | 원본 | 문제별 풀이 | 주요 내용 |
+| --- | --- | --- | --- |
+| HW1 | [문제 PDF](EngComp_HW1.pdf) | [13문제](HW1/README.md) | 기초 계산·배열·행렬식·역행렬 |
+| HW2 | [문제 PDF](EngComp_HW2.pdf) | [14문제](HW2/README.md) | 벡터·회로·질량–스프링·그래프 |
+| HW3 | [문제 PDF](HW3.pdf) | [4문제](HW3/README.md) | 외팔보 처짐·2링크 로봇팔 |
+| HW4 | [문제 PDF](HW4.pdf) | [통합 1문제](HW4/README.md) | n-Link 클래스와 애니메이션 |
+| HW5 | [문제 PDF](HW5.pdf) | [5문제](HW5/README.md) | 보간·미분·적분·미분방정식 |
+| HW6 | [문제 PDF](HW6.pdf) | [조사 1문제](HW6/README.md) | 공학 프로그래밍 활용 보고서 |
 
-[전체 안내](../README.md)
+각 문제 폴더의 README에서 조건과 풀이를 읽고, `main.m`과 `results.txt`로 코드 및 실제 실행 결과를 확인할 수 있습니다. 그래프와 GIF가 필요한 문제에는 해당 결과 파일을 함께 두었습니다. HW6은 코드가 아닌 보고서 과제입니다.
+
+[기존 풀이 PDF](../solutions/README.md) · [원문 정정 사항](../docs/source_notes.md) · [전체 실행 방법](../README.md)
