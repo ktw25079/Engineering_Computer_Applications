@@ -1,0 +1,9 @@
+MATLAB 26.1.0.3346908 (R2026a) Update 5
+tip_deflection_m
+         0.297619047619048
+
+
+fixed_deflection_m
+     0
+
+
