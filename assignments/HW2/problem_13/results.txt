@@ -1,0 +1,13 @@
+MATLAB 26.1.0.3346908 (R2026a) Update 5
+maximum_x_m
+          1.99335041634737
+
+
+sample_peak_time_s
+                     0.292
+
+
+max_printed_derivative_difference
+       0.00193999999999761
+
+
