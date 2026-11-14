@@ -1,0 +1,19 @@
+# HW1 · 문제 5: 포물선 비행 시간·거리·높이
+
+## 문제
+
+초속도 V0=182 m/s, 발사각 θ=54°, g=9.81 m/s²일 때 비행 시간, 최대 수평 이동 거리, 최대 높이를 구한다. 원문 인쇄식은 t=2V0 sinθ/g, xmax=2V0² sinθ cosθ/g, hmax=2V0 sin²θ/g이다.
+
+[원본 문제 PDF 1쪽](../../EngComp_HW1.pdf#page=1)의 조건을 정리했습니다.
+
+## 풀이
+
+시간과 사거리는 원문 식을 그대로 적용한다. **원문의 높이 식은 차원이 길이가 아니므로 오식이다.** 수직 속도가 0이 되는 시점 $t_{peak}=V_0\sin\theta/g$를 $y=V_0\sin\theta\,t-gt^2/2$에 대입하면 $h_{max}=V_0^2\sin^2\theta/(2g)$이다. `height_printed_expression`은 원문 식을 그대로 계산한 수치이며 m 단위를 붙이지 않는다. `height_correct_m`가 물리적으로 올바른 높이이다.
+
+## 실행과 결과
+
+이 폴더를 MATLAB 현재 폴더로 선택한 뒤 `main`을 실행합니다. 계산값은 `results` 구조체에 저장되며 `assert`로 확인합니다. HW1 전체 실행은 상위 폴더에서 `run_all`을 실행합니다.
+
+- [MATLAB 코드](main.m)
+- [실제 실행 결과](results.txt)
+- [HW1 문제 목록](../README.md)
