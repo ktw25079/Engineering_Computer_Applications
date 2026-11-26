@@ -4,8 +4,6 @@
 
 0≤x≤2π에서 f(x)=sin²(x)cos(2x)와 x에 대한 도함수를 하나의 plot에 표시하고 label과 legend를 추가한다.
 
-[원본 PDF 2쪽](../../EngComp_HW2.pdf#page=2)
-
 ## 해결 방법
 
 곱·연쇄법칙으로 f′(x)=2sin(x)cos(x)cos(2x)−2sin²(x)sin(2x)이다. 함수의 배열 계산에는 `.*`, `.^`를 사용한다. 내부 구간의 중앙차분과 해석 도함수를 비교한다.
